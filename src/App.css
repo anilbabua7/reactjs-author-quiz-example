@@ -31,3 +31,27 @@
     transform: rotate(360deg);
   }
 }
+
+.turn > div{
+  height:  400 px;
+}
+
+.turn {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.authorimage {
+  max-height: 20%; 
+}
+
+.answer {
+  background-color: aliceblue;
+  border-color: aqua;
+  margin-bottom: 20px;
+  padding: 15px 30px 15px 15px;
+}
+
+.answer:hover {
+    background-color: beige;
+}
